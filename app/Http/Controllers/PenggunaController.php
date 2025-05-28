@@ -8,7 +8,8 @@ class PenggunaController extends Controller
 {
     function tampilan()
     {
-        return view('Pengguna.tampilan');
+       return view('pengguna.tampilan');
+
     }
 }
 
