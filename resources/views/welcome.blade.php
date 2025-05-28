@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <h1>selamat datang ojan</h1>
+</head>
+<body>
+     <h1>selamat datang ojan</h1>
     <a href="/pengguna/beranda">beranda</a>
 </body>
 </html>
