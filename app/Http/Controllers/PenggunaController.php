@@ -6,9 +6,9 @@ use Illuminate\Http\Request;
 
 class PenggunaController extends Controller
 {
-    public function index()
+    function index()
     {
-        return view('beranda');
+        return view('Pengguna.tampilan');
     }
 }
 
