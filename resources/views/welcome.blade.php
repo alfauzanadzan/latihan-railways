@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-     <h1>selamat datang ojan</h1>
+     <h1>mau ngapain</h1>
     <a href="/pengguna/beranda">beranda</a>
 </body>
 </html>
